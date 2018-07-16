@@ -1,4 +1,4 @@
 class Vehicle
-
+  
 end
   
